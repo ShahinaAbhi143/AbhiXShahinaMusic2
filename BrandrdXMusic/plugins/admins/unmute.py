@@ -1,4 +1,4 @@
-from BrandrdXMusi import app
+from BrandrdXMusic import app
 from pyrogram import filters,enums
 from pyrogram.types import ChatPermissions 
 from BrandrdXMusic.utils.branded_ban import admin_filter
