@@ -47,7 +47,7 @@ yt-dlp
 gtts
 youtube_search
 youtube-search-python
-lexica-api==1.4.7
+lexica-api==1.5.9
 httpx==0.25.2
 gpytranslate
 openai==0.28.0
