@@ -12,10 +12,6 @@ from BrandrdXMusic.plugins import ALL_MODULES
 from BrandrdXMusic.utils.database import get_banned_users, get_gbanned
 from config import BANNED_USERS
 
-from BrandrdXMusic.plugins.tools.clone import restart_bots
-
-
-
 
 async def init():
     if (
@@ -59,7 +55,7 @@ async def init():
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("BrandrdXMusic").info("Stopping ShahinaXMusic Bot...")
+    LOGGER("BrandrdXMusic").info("Stopping Brandrd Music Bot...")
 
 
 if __name__ == "__main__":
