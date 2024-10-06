@@ -11,7 +11,7 @@ blackpink
 deepai
 gTTS
 pytube
-dnspython==2.3.0
+dnspython==2.7.0
 ffmpeg-python
 gitpython
 hachoir
